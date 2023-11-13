@@ -4,7 +4,9 @@
 Major in Artificial Intelligence of University of Information Technology - VNUHCM
 ---------------------------------------------------------------------------------
 
-‣ Cheerful and Friendly ‣ Studious and Serious ‣ Enthusiastic
+‣ Cheerful and Friendly 
+‣ Studious and Serious
+‣ Enthusiastic
 
 * 🌍  I'm based in Ho Chi Minh City, VietNam
 * ✉️  You can contact me at [dinhkhoi07092005@gmail.com](mailto:dinhkhoi07092005@gmail.com)
