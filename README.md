@@ -4,8 +4,8 @@
 Major in Artificial Intelligence of University of Information Technology - VNUHCM
 ---------------------------------------------------------------------------------
 
-‣ Cheerful and Friendly 
-‣ Studious and Serious
+‣ Cheerful and Friendly</p>
+‣ Studious and Serious</p>
 ‣ Enthusiastic
 
 * 🌍  I'm based in Ho Chi Minh City, VietNam
