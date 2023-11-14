@@ -1,7 +1,9 @@
-👋 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyễn Đình Khôi
+👋 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
 
-Major in Artificial Intelligence of University of Information Technology - VNUHCM
+👋Nice to meet you! 
+My full name is Nguyen Dinh Khoi. I’m a freshman at University of Information Technology - VNUHCM and my major is Artificial Intelligence 💻🧠. 
+The adjectives that best describe me are open-mindedness, motivation, studious and serious. I work well in a group and also can work independently.
 ---------------------------------------------------------------------------------
 
 ‣ Cheerful and Friendly</p>
